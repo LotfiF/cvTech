@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "LotfiDb": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "anguforma",
+    "password": "MPCN310tsmi!:;,",
+    "name": "LotfiDb",
+    "user": "LotfiF",
+    "connector": "mysql"
+  }
+}
